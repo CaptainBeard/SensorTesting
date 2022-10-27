@@ -3,11 +3,14 @@
 This repo is designated for testing different kind of sensor modules with Raspberry Pi using Python.<br>
 Work in progress.
 
+
+
+
 Development board
 <img src=Images/Img1.jpg>
 
 Raspberry Pi's pinout diagram
-<img src=Images/Img1_1.jpg>
+<img src=Images/Img1_2.jpg>
 
 Different kinds of sensor modules
 <img src=Images/Img2.jpg>
