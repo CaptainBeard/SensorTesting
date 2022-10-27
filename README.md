@@ -7,7 +7,7 @@ Work in progress.
 <img src=Images/Img1.jpg>
 
 <h3>Raspberry Pi's pinout diagram</h3>
-<img src=Images/Img1_2.jpg>
+<img src=Images/Img1_2.png>
 
 <h3>Different kinds of sensor modules</h3>
 <img src=Images/Img2.jpg>
