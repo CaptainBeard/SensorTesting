@@ -2,21 +2,18 @@
 
 This repo is designated for testing different kind of sensor modules with Raspberry Pi using Python.<br>
 Work in progress.
-
-
-
-
-Development board
+<br><br>
+<h3>Development board</h3>
 <img src=Images/Img1.jpg>
 
-Raspberry Pi's pinout diagram
+<h3>Raspberry Pi's pinout diagram</h3>
 <img src=Images/Img1_2.jpg>
 
-Different kinds of sensor modules
+<h3>Different kinds of sensor modules</h3>
 <img src=Images/Img2.jpg>
 
-LCD module in test
+<h3>LCD module in test</h3>
 <img src=Images/Img3.jpg>
 
-PIR module
+<h3>PIR module</h3>
 <img src=Images/Img4.jpg>
