@@ -1,6 +1,6 @@
 # WIP Sensors testing with Raspberry Pi
 
-This repo is designated for testing different kind of sensor modules with Raspberry Pi using Python.<br>
+This repo is designated for testing different kinds of sensor modules with Raspberry Pi using Python.<br>
 Work in progress.
 <br><br>
 <h3>Development board</h3>
